@@ -18,7 +18,7 @@ I am a student of Software Engineering at La Salle Arequipa. C++, Dart and PHP a
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read mangas, manhwas and watch anime, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+- 📫 Reach out to me at: <a href="https://www.linkedin.com/in/olger-antonio-jose-quispe-vilca/">Olger A.J. Quispe Vilca Linkedin</a>
 
 ## My Skills Include
 
