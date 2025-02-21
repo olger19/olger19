@@ -9,12 +9,11 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a student of Software Engineering at La Salle Arequipa. C++, Dart and PHP are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+I am a student of Software Engineering at La Salle Arequipa. C++, Dart and Python are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in web design, Android development and graphic design**
 - 🌱 I’m currently learning ...
-  - Java
   - React JS
-  - Python
+  - Flutter
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read mangas, manhwas and watch anime, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
@@ -28,10 +27,10 @@ I am a student of Software Engineering at La Salle Arequipa. C++, Dart and PHP a
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
   
 </span>
+
 
 <h4> Frameworks </h4>
 <span>
