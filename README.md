@@ -17,7 +17,7 @@ I am a student of Software Engineering at La Salle Arequipa. C++, Dart and Pytho
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read mangas, manhwas and watch anime, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="https://www.linkedin.com/in/olger-antonio-jose-quispe-vilca/">Olger A.J. Quispe Vilca Linkedin</a>
+[//]: <> (This is also a comment.- 📫 Reach out to me at: <a href="https://www.linkedin.com/in/olger-antonio-jose-quispe-vilca/">Olger A.J. Quispe Vilca Linkedin</a>)
 
 ## My Skills Include
 
@@ -60,9 +60,3 @@ I am a student of Software Engineering at La Salle Arequipa. C++, Dart and Pytho
   <img src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white">
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
 </span>
-
-## Check out my social Media
-
-<a href="https://www.linkedin.com/in/olger-antonio-jose-quispe-vilca-95b34b266/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
