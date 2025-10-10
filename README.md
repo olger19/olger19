@@ -9,7 +9,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a student of Software Engineering at La Salle Arequipa. C++, Dart and Python are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+I am a student of Software Engineering at University of La Salle. C++, Dart and Python are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in web development, Android development and graphic design**
 - 🌱 I’m currently learning ...
   - React JS
