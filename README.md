@@ -4,9 +4,6 @@
 </p>
 
 <br>
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am a student of Software Engineering at University of La Salle. C++, Dart and Python are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
@@ -31,12 +28,22 @@ I am a student of Software Engineering at University of La Salle. C++, Dart and 
   
 </span>
 
-
 <h4> Frameworks </h4>
 <span>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</span>
+
+<h4> Backend </h4>
+<span>
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white">
 </span>
 
 <h4> Databases </h4>
@@ -49,6 +56,7 @@ I am a student of Software Engineering at University of La Salle. C++, Dart and 
 <span>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</span>
 
 <h4> Other Tools and Technologies </h4>
 <span>
@@ -57,9 +65,13 @@ I am a student of Software Engineering at University of La Salle. C++, Dart and 
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
   <img src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white">
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </span>
 
-<h4> Stats </h4>
+<h4> My statistics </h4>
 <span>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=olger19&layout=compact">
+  <a href="https://github.com/olger19">
+    <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api?username=olger19&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=olger19&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </span>
