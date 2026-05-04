@@ -4,12 +4,13 @@
 </p>
 
 <br>
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am a student of Software Engineering at University of La Salle. C++, Dart and Python are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in web development and Android development**
+* **I am interested in web development, Android development and Data Engineering **
 - 🌱 I’m currently learning ...
-  - React JS
+  - Django
   - Flutter
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
