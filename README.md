@@ -7,16 +7,16 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a student of Software Engineering at University of La Salle. C++, Dart and Python are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+> *"Always learning, always shipping."*
 
-* **I am interested in web development, Android development and Data Engineering**
-- 🌱 I’m currently learning ...
-  - Django
-  - Flutter
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read mangas, manhwas and watch anime, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
+🎓 Software Engineering student at **Universidad La Salle**, Arequipa.  
+🛠️ I build for the **web**, **mobile**, and **data** — with a focus on clean code and useful products.  
+🌱 Currently deepening my skills in **Django** and **Flutter**.  
+🤝 Open to collaborating on open source projects.  
 
+---
+
+📖 Manga &nbsp;·&nbsp; 🎨 Painting &nbsp;·&nbsp; 🎵 Music &nbsp;·&nbsp; 🌿 Outdoors
 ## My Skills Include
 
 <h4> Languages </h4>
@@ -77,3 +77,12 @@ I am a student of Software Engineering at University of La Salle. C++, Dart and 
     <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=olger19&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </span>
+
+## Contact
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=flat&logo=github&logoColor=white)](https://github.com/olger19)
+[![Email](https://img.shields.io/badge/Email-0A0A0A?style=flat&logo=gmail&logoColor=white)](mailto:olgerqv17@email.com)
+
+</div>
