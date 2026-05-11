@@ -80,7 +80,7 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=flat&logo=github&logoColor=white)](https://github.com/olger19)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olgerquivilca)
 [![Email](https://img.shields.io/badge/Email-0A0A0A?style=flat&logo=gmail&logoColor=white)](mailto:olgerqv17@email.com)
 
 </div>
