@@ -7,7 +7,7 @@
 
 > *"Always learning, always shipping."*
 
-🎓 Software Engineering student at **Universidad La Salle**, Arequipa.  
+🎓 A graduate in Software Engineering from **La Salle University**, Arequipa.  
 🛠️ I build for the **web**, **mobile**, and **data** — with a focus on clean code and useful products.  
 🌱 Currently deepening my skills in **Django** and **Flutter**.  
 🤝 Open to collaborating on open source projects.  
