@@ -1,86 +1,95 @@
-<h1 align="center">Hi , I'm Olger A. J. Quispe Vilca<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer+@olger19;Always+learning+new+things"></a>
-</p>
+<div align="center">
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<h1>Hi, I'm Olger A. J. Quispe Vilca <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-> *"Always learning, always shipping."*
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer+%40olger19;Always+learning%2C+always+shipping"></a>
 
-🎓 A graduate in Software Engineering from **La Salle University**, Arequipa.  
-🛠️ I build for the **web**, **mobile**, and **data** — with a focus on clean code and useful products.  
-🌱 Currently deepening my skills in **Django** and **Flutter**.  
-🤝 Open to collaborating on open source projects.  
+<br>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olgerquivilca)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olgerqv17@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-olger.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/olger19)
 
-📖 Manga &nbsp;·&nbsp; 🎨 Painting &nbsp;·&nbsp; 🎵 Music &nbsp;·&nbsp; 🌿 Outdoors
-## My Skills Include
+</div>
 
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  
-</span>
+<br>
 
-<h4> Frameworks </h4>
-<span>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-</span>
+## About me
 
-<h4> Backend </h4>
-<span>
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white">
-</span>
+- 🎓 Graduate in **Software Engineering** from La Salle University, Arequipa, Perú — top academic third of my class.
+- 🛠️ I build for the **web**, **mobile**, and **data** — with a focus on clean code and useful products.
+- 💼 Recent experience building CRUD platforms and internal tools with **React**, **ExpressJS**, and **Supabase**.
+- 🌱 Currently deepening my skills in **Django** and **Flutter**.
+- 🤝 Open to collaborating on open source projects and new opportunities.
 
-<h4> Databases </h4>
-<span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-</span>
+<br>
 
-<h4> IDE </h4>
-<span>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-</span>
-
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-</span>
-
-<h4> My statistics </h4>
-<span>
-  <a href="https://github.com/olger19">
-    <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api?username=olger19&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=olger19&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</span>
-
-## Contact
+## Tech Stack
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olgerquivilca)
-[![Email](https://img.shields.io/badge/Email-0A0A0A?style=flat&logo=gmail&logoColor=white)](mailto:olgerqv17@email.com)
+**Languages**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+
+**Frameworks & Libraries**
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+<img src="https://img.shields.io/badge/Astro-2C2052?style=for-the-badge&logo=astro&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+
+**Backend**
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+
+**Databases**
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+
+**Data & BI**
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+
+**Tools**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+
+</div>
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=olger19&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=olger19&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+</div>
+
+<br>
+
+<div align="center">
+
+📖 Manga &nbsp;·&nbsp; 🎨 Painting &nbsp;·&nbsp; 🎵 Music &nbsp;·&nbsp; 🌿 Outdoors
+
+<sub>Thanks for stopping by — always happy to connect and talk tech.</sub>
 
 </div>
