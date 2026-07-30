@@ -1,12 +1,13 @@
 <div align="center">
 
 <h1>Hi, I'm Olger A. J. Quispe Vilca <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer+%40olger19;Always+learning%2C+always+shipping"></a>
+
+</div>
 
 <br> <p align="center"> <a href="https://www.linkedin.com/in/olgerquivilca"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="50"/></a> <a href="mailto:olgerqv17@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="50"/></a> <a href="https://portafolio-olger.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="50"/></a> <a href="https://github.com/olger19"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50"/></a> </p> </div> <br>
 
-</div>
+
 
 ## About me
 
@@ -48,10 +49,10 @@
 
 ## GitHub Stats
 
-<div align="center">
+
 <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=olger19&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=olger19&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
-</div>
+
 
 <div align="center">
 
