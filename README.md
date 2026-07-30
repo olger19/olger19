@@ -5,9 +5,7 @@
 
 </div>
 
-<br> <p align="center"> <a href="https://www.linkedin.com/in/olgerquivilca"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="50"/></a> <a href="mailto:olgerqv17@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="50"/></a> <a href="https://portafolio-olger.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="50"/></a> <a href="https://github.com/olger19"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50"/></a> </p> </div> <br>
-
-
+<br> <p align="center"> <a href="https://www.linkedin.com/in/olgerquivilca"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="50"/></a> <a href="mailto:olgerqv17@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="50"/></a> <a href="https://portafolio-olger.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="50"/></a></p>
 
 ## About me
 
@@ -36,10 +34,6 @@
 **Databases**
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" /></a>
-
-**Data & BI**
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 
 **Tools**
 
