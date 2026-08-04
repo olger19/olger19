@@ -44,8 +44,10 @@
 ## GitHub Stats
 
 
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=olger19&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=olger19&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+<div align="center">
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=olger19&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=olger19&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+</div>
 
 
 <div align="center">
